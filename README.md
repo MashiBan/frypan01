@@ -4,9 +4,9 @@
 Full-Stack Developer
 --------------------
 
-* ✉️  You can contact me at [kb00664422@gmail.com](mailto:kb00664422@gmail.com)
+
 * 🧠  I'm learning MongoDB
-* 🤝  I'm open to collaborating on Front-end Projects
+* 🤝  I'm open to collaborating on Front-end Projects/open-source
 * ⚡  Let's Code Together!
 
 ### Skills
