@@ -5,7 +5,7 @@ Full-Stack Developer
 --------------------
 
 
-* 🧠  I'm learning MongoDB
+* 🧠  I'm learning JAVA
 * 🤝  I'm open to collaborating on Front-end Projects/open-source
 * ⚡  Let's Code Together!
 
